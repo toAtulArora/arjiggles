@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="mug2.svg"
-   inkscape:export-filename="/home/atul/SparkleShare/arjiggles/highResExportImproved/mug.svg.png"
+   inkscape:export-filename="/home/atul/SparkleShare/arjiggles/highResExportImproved/mug2.svg.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -70,13 +70,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3345161"
-     inkscape:cx="331.37997"
-     inkscape:cy="182.64013"
+     inkscape:cx="225.78133"
+     inkscape:cy="142.46175"
      inkscape:document-units="px"
      inkscape:current-layer="g4474"
      showgrid="false"
      units="in"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1364"
      inkscape:window-height="715"
@@ -156,7 +156,7 @@
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/manuBear.png"
          xlink:href="manuBear.png"
          y="861.45966"
-         x="277.45071"
+         x="283.45071"
          id="image4166"
          preserveAspectRatio="none"
          height="105.10084"
@@ -199,7 +199,7 @@
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/yoyo.png"
          xlink:href="yoyo.png"
          y="908.67249"
-         x="405.95166"
+         x="425.95166"
          id="image4448"
          preserveAspectRatio="none"
          height="92.000443"
@@ -208,7 +208,7 @@
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/atulEagle.png"
          xlink:href="atulEagle.png"
          y="851.10358"
-         x="532.76398"
+         x="540.76398"
          id="image4144"
          preserveAspectRatio="none"
          height="189.81326"
@@ -270,15 +270,20 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c6cc9c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="7.6468458"
-         y="760.87689"
+         x="211.43442"
+         y="771.36761"
          id="text4564"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4566"
-           x="7.6468458"
-           y="760.87689"
-           style="font-size:25px;fill:#c6cc9c">You're awesome. Sure, why not!</tspan></text>
+           x="216.70786"
+           y="771.36761"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:30px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';text-align:end;text-anchor:end;fill:#c6cc9c">We're awesome. </tspan><tspan
+           sodipodi:role="line"
+           x="211.43442"
+           y="797.69153"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Latin Modern Sans Quotation';-inkscape-font-specification:'Latin Modern Sans Quotation';text-align:end;text-anchor:end;fill:#c6cc9c"
+           id="tspan5086">Sure, why not!</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
          d="m 160,631.6479 249.28571,0 152.99542,88.33194"
@@ -292,8 +297,8 @@
          height="108.77431"
          preserveAspectRatio="none"
          id="image5054"
-         x="638.44202"
-         y="779.23877" />
+         x="612.71021"
+         y="797.65021" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -305,6 +310,18 @@
            id="tspan5065"
            x="-1.49867"
            y="713.66266">&quot;Reality continues to ruin my life.&quot;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c6cc9c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="343.94308"
+         y="1051.4044"
+         id="text5105"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5107"
+           x="343.94308"
+           y="1051.4044"
+           style="-inkscape-font-specification:Sawasdee;font-family:Sawasdee;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2016</tspan></text>
     </g>
     <g
        id="g4527"

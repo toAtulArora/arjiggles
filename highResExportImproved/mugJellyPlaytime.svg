@@ -22,6 +22,34 @@
    inkscape:export-ydpi="300">
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4582"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4585"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4497">
@@ -41,20 +69,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="295.48697"
-     inkscape:cy="117.81166"
+     inkscape:zoom="1.3345161"
+     inkscape:cx="374.26955"
+     inkscape:cy="172.1835"
      inkscape:document-units="px"
      inkscape:current-layer="g4474"
      showgrid="false"
      units="in"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-width="1364"
+     inkscape:window-height="715"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -152,26 +180,17 @@
       <image
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/vivekSnakeHighRes.png"
          xlink:href="vivekSnakeHighRes.png"
-         y="849.92865"
-         x="81.920952"
+         y="824.45123"
+         x="70.680954"
          id="image4232"
          preserveAspectRatio="none"
          height="153.4259"
          width="230.13884" />
       <image
-         sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/arjitBaby.png"
-         xlink:href="arjitBaby.png"
-         y="839.83826"
-         x="-10.560455"
-         id="image4273"
-         preserveAspectRatio="none"
-         height="128.16222"
-         width="75.714287" />
-      <image
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/prashansaPorcupine.png"
          xlink:href="prashansaPorcupine.png"
-         y="918.74493"
-         x="-2.6886451"
+         y="923.99023"
+         x="103.71696"
          id="image4177"
          preserveAspectRatio="none"
          height="84.609596"
@@ -179,12 +198,12 @@
       <image
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/yoyo.png"
          xlink:href="yoyo.png"
-         y="903.88721"
-         x="420.59451"
+         y="908.67249"
+         x="405.95166"
          id="image4448"
          preserveAspectRatio="none"
-         height="116.42857"
-         width="155.2381" />
+         height="92.000443"
+         width="189.5238" />
       <image
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/atulEagle.png"
          xlink:href="atulEagle.png"
@@ -203,8 +222,8 @@
       <image
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/queen.png"
          xlink:href="queen.png"
-         y="929.10254"
-         x="2.4079914"
+         y="821.94763"
+         x="-63.533512"
          id="image4284"
          preserveAspectRatio="none"
          height="237.95816"
@@ -231,8 +250,8 @@
       <image
          sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/saumya_cricket2.png"
          xlink:href="saumya_cricket2.png"
-         y="968.07874"
-         x="175.90392"
+         y="964.33203"
+         x="187.89328"
          id="image4210"
          preserveAspectRatio="none"
          height="106.37906"
@@ -248,6 +267,43 @@
            id="tspan4503"
            x="118.57143"
            y="755.93359" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="12.142858"
+         y="657.36224"
+         id="text4564"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4566"
+           x="12.142858"
+           y="657.36224">Big People and I</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="m 160,631.6479 249.28571,0 152.99542,88.33194"
+         id="path4576"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="5"
+         y="756.64789"
+         id="text5042"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5044"
+           x="5"
+           y="756.64789">&quot;If one fool can learn, so can the other.&quot; ~ Feynman about physics</tspan></text>
+      <image
+         sodipodi:absref="/home/atul/SparkleShare/arjiggles/highResExportImproved/superArjit.png"
+         xlink:href="superArjit.png"
+         width="72.516205"
+         height="108.77431"
+         preserveAspectRatio="none"
+         id="image5054"
+         x="638.44202"
+         y="779.23877" />
     </g>
     <g
        id="g4527"
